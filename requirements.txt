@@ -1,0 +1,3 @@
+# Standard library modules are used (Python 3.8+)
+# Optional requirement if you extend features later:
+colorama>=0.4.6
